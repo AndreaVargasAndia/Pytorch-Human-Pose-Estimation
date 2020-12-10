@@ -3,7 +3,7 @@
 # Licensed under the MIT License.
 # Modified from py-faster-rcnn (https://github.com/rbgirshick/py-faster-rcnn)
 # ------------------------------------------------------------------------------
-
+%%cython
 import numpy as np
 cimport numpy as np
 
